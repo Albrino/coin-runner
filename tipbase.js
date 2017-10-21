@@ -55,7 +55,7 @@ var showCoinBlue = true;
 var showCoinBlack = true;
 var coins = 0;
 var check = false;
-var time = 33;
+var time = 31;
 var sun = function() {
     strokeWeight(10);
     stroke(238, 255, 0);
